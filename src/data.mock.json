@@ -1,0 +1,22 @@
+{
+  "statement": [
+    {
+      "date": "2024-06-01",
+      "amount": 1000,
+      "balance": 1000,
+      "type": "credit"
+    },
+    {
+      "date": "2024-06-02",
+      "amount": -200,
+      "balance": 800,
+      "type": "debit"
+    },
+    {
+      "date": "2024-06-03",
+      "amount": 500,
+      "balance": 1300,
+      "type": "credit"
+    }
+  ]
+}
